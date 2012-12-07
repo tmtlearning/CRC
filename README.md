@@ -1,4 +1,4 @@
-crc
+CRC32.py
 ===
 
-crc algos
+This script allows you to get a crc32 of any string.
