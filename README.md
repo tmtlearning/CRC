@@ -5,8 +5,7 @@ This script allows you to get a crc32 of any string.
 
 Usage
 ===
-'''python
-import crc32.py
++.. code-block:: python
+  import crc32.py
 
-crc32(input)
-'''
+  crc32(input)
